@@ -1,2 +1,2 @@
 # may-leetcoding-challenge
-May LeetCoding Challenge
+May LeetCoding Challenge solutions
